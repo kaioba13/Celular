@@ -30,6 +30,7 @@ Execute o projeto:
 Dentro do seu editor de código, abra o terminal integrado.
 Navegue até o diretório onde o projeto está localizado.
 Compile e execute o projeto utilizando os seguintes comandos:
+````bash
 dotnet build
 dotnet run
 
