@@ -1,4 +1,4 @@
-Sistema de Gestão de Celulares
+# Sistema de Gestão de Celulares
 
 ## Linguagem utilizada
 C#
